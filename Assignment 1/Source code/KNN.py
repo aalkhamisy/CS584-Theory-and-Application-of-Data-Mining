@@ -134,7 +134,7 @@ submission=knn(236,tfidfTest, tfidfTrain, preprocessedReviewTest, sentiment)
 # In[12]:
 
 
-np.savetxt('./submission.txt', submission,fmt='%s')
+np.savetxt('./submission.txt', submission,fmt='%s') 
 
 
 # In[ ]:
