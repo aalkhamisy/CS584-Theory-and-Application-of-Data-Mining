@@ -694,7 +694,7 @@ EoO=abs(Pr_C1_Y0_race0-Pr_C1_Y0_race1)
 print('Equality of odds difference',EoO)
 
 
-# In[ ]:
+# In[ ]: 
 
 
 
