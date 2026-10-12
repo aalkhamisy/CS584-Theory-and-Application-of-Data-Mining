@@ -215,4 +215,3 @@ np.savetxt('./submission.txt', y_hat,fmt='%s')
 
 
 
-
